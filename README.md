@@ -220,23 +220,6 @@ Ecommerce-Sales-Dashboard-PowerBI
 │
 └── README.md
 ```
-
----
-
-# 🚀 How to Use
-
-1. Clone this repository.
-
-```bash
-git clone https://github.com/yourusername/Ecommerce-Sales-Dashboard-PowerBI.git
-```
-
-2. Open `Ecommerce_Sales_Dashboard.pbix` using **Power BI Desktop**.
-
-3. Refresh the data if required.
-
-4. Explore the dashboard using Quarter and State filters.
-
 ---
 
 # 🎓 Skills Demonstrated
@@ -254,11 +237,3 @@ git clone https://github.com/yourusername/Ecommerce-Sales-Dashboard-PowerBI.git
 
 ---
 
-# 🔮 Future Improvements
-
-- Year-over-Year Sales Comparison
-- Sales Forecasting
-- Customer Segmentation
-- Drill-through Reports
-- SQL Database Integration
-- Automated Data Refresh
